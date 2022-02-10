@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/bin/Debug/net5.0/Math_operation
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/bin/Debug/net5.0/Math_operation.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/bin/Debug/net5.0/Math_operation.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/bin/Debug/net5.0/Math_operation.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/bin/Debug/net5.0/Math_operation.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/bin/Debug/net5.0/ref/Math_operation.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/bin/Debug/net5.0/Math_operation.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/obj/Debug/net5.0/Math_operation.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/obj/Debug/net5.0/Math_operation.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/obj/Debug/net5.0/Math_operation.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/obj/Debug/net5.0/Math_operation.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/obj/Debug/net5.0/Math_operation.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/obj/Debug/net5.0/Math_operation.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/obj/Debug/net5.0/ref/Math_operation.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/obj/Debug/net5.0/Math_operation.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Math_operation/obj/Debug/net5.0/Math_operation.genruntimeconfig.cache
