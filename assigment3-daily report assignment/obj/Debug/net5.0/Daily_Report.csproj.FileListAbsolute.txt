@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/bin/Debug/net5.0/Daily_Report
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/bin/Debug/net5.0/Daily_Report.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/bin/Debug/net5.0/Daily_Report.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/bin/Debug/net5.0/Daily_Report.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/bin/Debug/net5.0/Daily_Report.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/bin/Debug/net5.0/ref/Daily_Report.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/bin/Debug/net5.0/Daily_Report.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/obj/Debug/net5.0/Daily_Report.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/obj/Debug/net5.0/Daily_Report.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/obj/Debug/net5.0/Daily_Report.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/obj/Debug/net5.0/Daily_Report.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/obj/Debug/net5.0/Daily_Report.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/obj/Debug/net5.0/Daily_Report.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/obj/Debug/net5.0/ref/Daily_Report.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/obj/Debug/net5.0/Daily_Report.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/Daily_Report/obj/Debug/net5.0/Daily_Report.genruntimeconfig.cache
