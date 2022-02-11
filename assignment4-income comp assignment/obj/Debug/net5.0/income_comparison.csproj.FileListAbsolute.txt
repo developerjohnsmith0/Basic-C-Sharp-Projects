@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/bin/Debug/net5.0/income_comparison
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/bin/Debug/net5.0/income_comparison.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/bin/Debug/net5.0/income_comparison.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/bin/Debug/net5.0/income_comparison.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/bin/Debug/net5.0/income_comparison.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/bin/Debug/net5.0/ref/income_comparison.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/bin/Debug/net5.0/income_comparison.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/obj/Debug/net5.0/income_comparison.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/obj/Debug/net5.0/income_comparison.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/obj/Debug/net5.0/income_comparison.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/obj/Debug/net5.0/income_comparison.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/obj/Debug/net5.0/income_comparison.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/obj/Debug/net5.0/income_comparison.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/obj/Debug/net5.0/ref/income_comparison.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/obj/Debug/net5.0/income_comparison.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/income_comparison/obj/Debug/net5.0/income_comparison.genruntimeconfig.cache
