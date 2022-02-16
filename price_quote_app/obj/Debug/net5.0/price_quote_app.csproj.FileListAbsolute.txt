@@ -1,0 +1,16 @@
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/bin/Debug/net5.0/price_quote_app
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/bin/Debug/net5.0/price_quote_app.deps.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/bin/Debug/net5.0/price_quote_app.runtimeconfig.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/bin/Debug/net5.0/price_quote_app.runtimeconfig.dev.json
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/bin/Debug/net5.0/price_quote_app.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/bin/Debug/net5.0/ref/price_quote_app.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/bin/Debug/net5.0/price_quote_app.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/obj/Debug/net5.0/price_quote_app.csproj.AssemblyReference.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/obj/Debug/net5.0/price_quote_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/obj/Debug/net5.0/price_quote_app.AssemblyInfoInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/obj/Debug/net5.0/price_quote_app.AssemblyInfo.cs
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/obj/Debug/net5.0/price_quote_app.csproj.CoreCompileInputs.cache
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/obj/Debug/net5.0/price_quote_app.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/obj/Debug/net5.0/ref/price_quote_app.dll
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/obj/Debug/net5.0/price_quote_app.pdb
+/home/ahtesham/Desktop/Adil_Hashmi/Projects/dotnet5_assignment/price_quote_app/obj/Debug/net5.0/price_quote_app.genruntimeconfig.cache
